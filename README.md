@@ -1,4 +1,5 @@
 ## This is a modified version of Hydroxide. Please note that it is not actively maintained or updated. The modifications were made solely to ensure compatibility with Macsploit (Forked orginally made for Wave).
+# Credit to Upbolt (Creator) and Byorl (Modifier/OG Fork)
 
 ## Script
 ```lua
