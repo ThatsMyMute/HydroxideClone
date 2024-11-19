@@ -11,7 +11,7 @@ local requiredMethods = {
     ["getMetatable"] = true,
     ["setClipboard"] = true,
     ["getNamecallMethod"] = true,
-    ["getCallingScript"] = true,
+    ["getCallingScript"] = false,
 }
 
 local remoteMethods = {
