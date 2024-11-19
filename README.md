@@ -1,4 +1,4 @@
-## This is a modified version of Hydroxide. Please note that it is not actively maintained or updated. The modifications were made solely to ensure compatibility with Wave.
+## This is a modified version of Hydroxide. Please note that it is not actively maintained or updated. The modifications were made solely to ensure compatibility with Macsploit (Forked orginally made for Wave).
 
 ## Script
 ```lua
